@@ -1,0 +1,88 @@
+[
+    {
+      "id": 1,
+      "name": "Smart Watch A1",
+      "image": "/images/th.jfif",
+      "price": 199.99,
+      "description": "Smart Watch with multiple features."
+    },
+    {
+      "id": 2,
+      "name": "Nail Polish",
+      "image": "/images/th2.jfif",
+      "price": 149.99,
+      "description": "Affordable and stylish nail polish."
+    },
+    {
+      "id": 3,
+      "name": "Fruit Drinks",
+      "image": "/images/OIP.jfif",
+      "price": 149.99,
+      "description": "Affordable and organic fruit drinks."
+    },
+    {
+      "id": 4,
+      "name": "Gym Bag",
+      "image": "/images/OIP 1.jfif",
+      "price": 149.99,
+      "description": "Affordable and stylish gym bag."
+    },
+    {
+      "id": 5,
+      "name": "Whiskey",
+      "image": "/images/OIP2.jfif",
+      "price": 149.99,
+      "description": "Affordable and classic whiskey."
+    },
+    {
+      "id": 6,
+      "name": "Face Cream",
+      "image": "/images/download.jfif",
+      "price": 149.99,
+      "description": "Affordable and organic face cream."
+    },
+    {
+      "id": 7,
+      "name": "Smart Watch B2",
+      "image": "/images/th1.jfif",
+      "price": 149.99,
+      "description": "Affordable and stylish smart watch."
+    },
+    {
+      "id": 10,
+      "name": "Smart Watch A1",
+      "image": "/images/th.jfif",
+      "price": 199.99,
+      "description": "Smart Watch with multiple features."
+    },
+    {
+      "id": 9,
+      "name": "Nail Polish",
+      "image": "/images/th2.jfif",
+      "price": 149.99,
+      "description": "Affordable and stylish nail polish."
+    },
+    {
+      "id": 10,
+      "name": "Fruit Drinks",
+      "image": "/images/OIP.jfif",
+      "price": 149.99,
+      "description": "Affordable and organic fruit drinks."
+    },
+    {
+      "id": 11,
+      "name": "Whiskey",
+      "image": "/images/OIP2.jfif",
+      "price": 149.99,
+      "description": "Affordable and classic whiskey."
+    },
+    {
+      "id": 12,
+      "name": "Face Cream",
+      "image": "/images/download.jfif",
+      "price": 149.99,
+      "description": "Affordable and organic face cream."
+    }
+
+  ]
+  
